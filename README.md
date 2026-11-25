@@ -1,6 +1,6 @@
 # Signify
 
-Where signing is simplified. Upload a PDF, place signature fields on the
+Where signing is simplified. Upload your PDF, place signature fields on the
 pages, and email a link. The recipient opens that link and signs there.
 
 ---
